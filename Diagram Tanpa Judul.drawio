@@ -250,7 +250,7 @@
           <mxGeometry x="60" y="960" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A46JKr3oTV-1Q6j6yiFv-42" value="siswa dan orangtua/wali membuat surat pernyataan pengunduran diri bermaterai ,diketahui oleh wakil kepala sekolah dan kepala sekolah serta diberikan sangki berdassarka keputusan musyawarah kasus oleh pihat pihat terkait" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="960" width="240" height="80" as="geometry" />
+          <mxGeometry x="200" y="950" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A46JKr3oTV-1Q6j6yiFv-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A46JKr3oTV-1Q6j6yiFv-18" target="A46JKr3oTV-1Q6j6yiFv-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
